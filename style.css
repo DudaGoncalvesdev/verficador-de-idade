@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(189, 253, 253);
+    font-family: sans-serif;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.644);
+}
+.ctn {
+    padding-top: 5vh;
+}
+
+button {
+    padding: 6px 20px;
+    background-color: #258bf7d8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: blue;
+}
